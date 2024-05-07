@@ -1,4 +1,4 @@
-### Project Name: **Inventory Insight**
+**Inventory Insight**
 
 ### README:
 
